@@ -1,5 +1,8 @@
-# centrality price gnome ticket 
+# centrality gnome price ticker
 
-Gnome 3 desktop ticker for centrality price with Python and argos. Rename to centrality.1r.60s.py and put in ~/.config/argos
+Get centrality price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/centrality-price-gnome-ticket/](https://codesharedot.github.io/centrality-price-gnome-ticket/)
 
-https://pythonbasics.org
+centrality price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to centrality.1r60s.py and put in ~/.config/argos
